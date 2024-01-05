@@ -38,7 +38,7 @@ Before you begin, make sure you have Python 3.x installed. If you don't have it 
   - Run the installer, and during installation, make sure to check the option that says "Add Python X.X to PATH" (X.X represents the Python version).
   - After installation, you can open Command Prompt or PowerShell and verify Python 3 installation by running: `python --version` or `python3 --version`.
 
-Please note that the exact commands and steps may vary depending on your Linux distribution or Windows version. Once you have Python 3 installed, you can proceed with setting up and running the RunCloud Service Checker as described in the installation and usage sections above.
+Please note that the exact commands and steps may vary depending on your Linux distribution or Windows version. Once you have Python 3 installed, you can proceed with setting up and running the Reboot Required Notification as described in the installation and usage sections above.
 
 
 ### Installation
